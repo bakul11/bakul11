@@ -1,9 +1,11 @@
-(https://media-exp1.licdn.com/dms/image/C4D16AQHwZnzFOWMeKA/profile-displaybackgroundimage-shrink_200_800/0/1654688282968?e=1665014400&v=beta&t=AwreRhA-C4Gpjf3pyR3V-QSB_mKAAX5ak0w2RpL4vOQ)
+![I am Full Stack Developer](https://media-exp1.licdn.com/dms/image/C4D16AQHwZnzFOWMeKA/profile-displaybackgroundimage-shrink_200_800/0/1654688282968?e=1665014400&v=beta&t=AwreRhA-C4Gpjf3pyR3V-QSB_mKAAX5ak0w2RpL4vOQ)
 
-### Hi there 👋, Bakul Chandro Ray
+### Hello, Bakul Chandro Ray
 #### I am Full Stack Developer
-![I am Full Stack Developer]
+
+
 I have 1 Year of hands-on experience efficiently coding websites and applications using modern HTML, CSS, Bootstrap, JavaScript, ReactJs, NodeJs, ExpressJS and MongoDB Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine and I am confident I would be an excellent addition to your organization.
+
 
 Skills:  Html/ CSS/Bootstrap/JavaScript/React/Express/MongoDB/Node
 
