@@ -1,4 +1,4 @@
-![I am Full Stack Developer](https://media-exp1.licdn.com/dms/image/C4D16AQHwZnzFOWMeKA/profile-displaybackgroundimage-shrink_200_800/0/1654688282968?e=1665014400&v=beta&t=AwreRhA-C4Gpjf3pyR3V-QSB_mKAAX5ak0w2RpL4vOQ)
+![I am Full Stack Developer](https://i.ibb.co/y4qCvVR/mern-stack.png)
 
 ### Hello, I am  Bakul Chandro Ray
 ### Full Stack Developer
