@@ -7,7 +7,17 @@
 I have 1 Year of hands-on experience efficiently coding websites and applications using modern HTML, CSS, Bootstrap, JavaScript, ReactJs, NodeJs, ExpressJS and MongoDB Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine and I am confident I would be an excellent addition to your organization.
 
 
-Skills:  Html/ CSS/Bootstrap/JavaScript/React/Express/MongoDB/Node
+### Skills:  
+
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **JavaScript**
+- **React Js**
+- **Node Js**
+- **Express Js**
+- **MongoDB**
+- **Redux**
 
 
 
