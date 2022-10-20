@@ -18,6 +18,7 @@ I have 1 Year of hands-on experience efficiently coding websites and application
 - **Express Js**
 - **MongoDB**
 - **Redux**
+- **Firebase**
 
 
 
