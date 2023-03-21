@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" width="100%" height="300px"
+    <img align="center" width="100%" height="250px"
         src="https://i.ibb.co/y4qCvVR/mern-stack.png"
         alt="mern" />
 </p>
