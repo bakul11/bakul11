@@ -1,4 +1,9 @@
 ![I am Full Stack Developer](https://i.ibb.co/y4qCvVR/mern-stack.png)
+<p align="center">
+    <img align="center" width="100%%"
+        src="https://i.ibb.co/y4qCvVR/mern-stack.png"
+        alt="mern" />
+</p>
 
 ### Hello, I am  Bakul Chandro Ray
 ### Full Stack Developer
