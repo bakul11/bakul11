@@ -1,10 +1,10 @@
 <p align="center">
-    <img align="center" width="100%"
+    <img align="center" width="100%" height="100px"
         src="https://i.ibb.co/y4qCvVR/mern-stack.png"
         alt="mern" />
 </p>
 
-### Hello, I am  Bakul Chandro Ray
+## Bakul Chandro Ray
 ### Full Stack Developer
 
 
