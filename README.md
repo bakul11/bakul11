@@ -20,7 +20,8 @@ I have 1 Year of hands-on experience efficiently coding websites and application
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Next Js](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nbsp;\
+![Next Js](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nbsp;
+![Prisma](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express.js-05122A?style=flat&logo=express)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
